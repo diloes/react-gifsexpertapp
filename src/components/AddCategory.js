@@ -26,7 +26,7 @@ export const AddCategory = ({ setCategories }) => {
     //Esto es un añadido personal by diloes
     const clickVacio = e => {
 
-        if(inputValor === 'Introduce una raza') { 
+        if(inputValor === 'Introduce tu búsqueda') { 
             setInputValor('');
         }
         
